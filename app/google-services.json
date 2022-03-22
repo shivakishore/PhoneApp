@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529443025515",
+    "project_id": "phoneapp-e2105",
+    "storage_bucket": "phoneapp-e2105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529443025515:android:8b912d4c01b58c3cd8372e",
+        "android_client_info": {
+          "package_name": "com.shiva.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529443025515-e6i99luqq5v42uqun6m0ospai2h8qhvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtHPMy6Zwp2mN-6EbRz5K8yegZHASbm4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529443025515-e6i99luqq5v42uqun6m0ospai2h8qhvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
